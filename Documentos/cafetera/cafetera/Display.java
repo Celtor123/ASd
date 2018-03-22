@@ -5,7 +5,7 @@ public class Display{
 	
 		public static void main(String[] args) {
                 azucar ex1 = new azucar();
-    ex1.setTipo("Capuccino");
+    ex1.setTipo("Solo");
     ex1.masazucar();
     Precio ex2 = new Precio();
     ex2.setPrecio(0.50);
